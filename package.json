@@ -1,13 +1,13 @@
 {
   "name": "farbtastic",
   "description": "jQuery Color Wheel",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "keywords": [
     "jquery"
   ],
   "license": "GPL-2.0",
   "dependencies" : {
-    "jQuery"   :  "*"
+    "jquery"   :  "^2.2.3"
   },
   "repository": {
     "type": "git",
